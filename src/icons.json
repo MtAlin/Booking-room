@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "active": true,
+      "icon": "fa-solid fa-martini-glass-citrus",
+      "title": "Free Cocktails",
+      "info": "A cocktail is a mixed drink typically made with a distilled liquor (such as arrack, brandy, cachaça, gin, rum, tequila, vodka, or whiskey) as its base ingredient that is then mixed with other ingredients or garnishments."
+    },
+    {
+      "id": 2,
+      "active": false,
+      "icon":"fa-solid fa-person-hiking",
+      "title": "Endless hiking",
+      "info": "A cocktail is a mixed drink typically made with a distilled liquor (such as arrack, brandy, cachaça, gin, rum, tequila, vodka, or whiskey) as its base ingredient that is then mixed with other ingredients or garnishments."
+    },
+    {
+      "id": 3,
+      "active": true,
+      "icon": "fa-solid fa-van-shuttle",
+      "title": "Free Cocktails",
+      "info": "A cocktail is a mixed drink typically made with a distilled liquor (such as arrack, brandy, cachaça, gin, rum, tequila, vodka, or whiskey) as its base ingredient that is then mixed with other ingredients or garnishments."
+    },
+    {
+      "id": 4,
+      "active": true,
+      "icon":"fa-solid fa-beer-mug-empty",
+      "title": "Free Bath",
+      "info": "A cocktail is a mixed drink typically made with a distilled liquor (such as arrack, brandy, cachaça, gin, rum, tequila, vodka, or whiskey) as its base ingredient that is then mixed with other ingredients or garnishments."
+    }
+] 
